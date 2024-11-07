@@ -1,1 +1,6 @@
+pandas
+beautifulsoup4
+selenium
+matplotlib
+seaborn
 
